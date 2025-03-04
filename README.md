@@ -6,4 +6,7 @@ I am a **Data Analyst specializing in automation**, with experience since 2020. 
 
 ## :pushpin: Featured Porjects
 :small_blue_diamond: **Excel Automation with VBA** - Custom-built projects using VBA for different necessities and process automation.
+:small_blue_diamond: **Big Data Analysis & Dashboards** - Experience handling big amounts of data, analyzing and providing reports for business insights.
+:small_blue_diamond: **Desktop Applications in Python** - Tailored software solutions for various needs.
+
 
