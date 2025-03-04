@@ -11,4 +11,9 @@ I am a **Data Analyst specializing in automation**, with experience since 2020. 
 
 :small_blue_diamond: **Desktop Applications in Python** - Tailored software solutions for various needs.
 
+## :telephone_receiver: Contact
+:email: moises1019@live.com
 
+:link: LinkedIn
+
+Feel free to explore my projects and reach out for collaboration opportunities!
